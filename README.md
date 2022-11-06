@@ -1,3 +1,3 @@
-### I love designing beautiful interfaces, writing maintainable codes, and architecting scalable software.
-- Co-founder and Chief Technology Officer at Pudding
-- Co-founder & Advisor at Alpha Weblab
+### Curious about building and scaling performant product teams, usable digital products, and sustainable businesses.
+- Co-founder and Chief Technology Officer at Success
+- Prev: Co-founder & Advisor at Alpha Weblab
